@@ -16,7 +16,7 @@
 
     ---
 
-    ![Diagram1.png](https://github.com/guuuu/dim/blob/main/260922/Diagram1.png)
+    ![Diagram1.png](https://github.com/guuuu/dim/blob/main/images/260922/Diagram1.png)
 
 
 ---
@@ -77,20 +77,20 @@ O design de interfaces é dividido em 4 etapas:
 - *Affordances*
     - Facilmente o utilizador consegue perceber onde pode aprender sobre a língua escolhida, aprender os caracteres caso se aplique, ver as histórias, onde comprar coisas, etc…
 
-        ![Untitled](https://github.com/guuuu/dim/blob/main/260922/Untitled.png)
+        ![Untitled](https://github.com/guuuu/dim/blob/main/images/260922/Untitled.png)
 
 - *Signifiers*
     - No caso dos caracteres, o utilizador consegue perceber quais caracteres já treinou o suficiente, quais é q falta treinar e todos eles são iguais, no entanto o que os distingue é a label que lhes é posta.
 
-        ![Untitled](https://github.com/guuuu/dim/blob/main/260922/Untitled%201.png)
+        ![Untitled](https://github.com/guuuu/dim/blob/main/images/260922/Untitled%201.png)
 
 - *Feedback*
     - Usando outra vez os caracteres como exemplo, quando o utilizador clica num dos caracteres, além de ser reproduzido o respetivo som, existe uma alteração visual que transmite a sensação de clique ao utilizador.
 
-        ![Botão não clicado](https://github.com/guuuu/dim/blob/main/260922/Untitled%202.png)
+        ![Botão não clicado](https://github.com/guuuu/dim/blob/main/images/260922/Untitled%202.png)
 
         Botão não clicado
 
-        ![Botão Clicado](https://github.com/guuuu/dim/blob/main/260922/Untitled%203.png)
+        ![Botão Clicado](https://github.com/guuuu/dim/blob/main/images/260922/Untitled%203.png)
 
         Botão Clicado
