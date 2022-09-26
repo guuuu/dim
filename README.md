@@ -11,13 +11,13 @@
 - *Early adopters*
     - Pessoas que adotam um produto acabado de entrar no mercado.
     - Traz vantagens para o produto, uma vez que se o *early adopter* partilhar a app nova que utiliza com duas pessoas se estas a começarem a utilizar e se este mesmo ciclo se repetir mais N vezes rapidamente a app será conhecida por várias pessoas, este caso especifico pode ser comparado a uma [*Binary tree*](https://en.wikipedia.org/wiki/Binary_tree).
-    
-    
-    
+
+
+
     ---
-    
-    ![Diagram1.png](26%2009%202022%20318373a239ea40f7a74cfd416b8f5148/Diagram1.png)
-    
+
+    ![Diagram1.png](https://github.com/guuuu/dim/blob/main/260922/Diagram1.png)
+
 
 ---
 
@@ -77,20 +77,20 @@ O design de interfaces é dividido em 4 etapas:
 - *Affordances*
     - Facilmente o utilizador consegue perceber onde pode aprender sobre a língua escolhida, aprender os caracteres caso se aplique, ver as histórias, onde comprar coisas, etc…
 
-        ![Untitled](26%2009%202022%20318373a239ea40f7a74cfd416b8f5148/Untitled.png)
+        ![Untitled](https://github.com/guuuu/dim/blob/main/260922/Untitled.png)
 
 - *Signifiers*
     - No caso dos caracteres, o utilizador consegue perceber quais caracteres já treinou o suficiente, quais é q falta treinar e todos eles são iguais, no entanto o que os distingue é a label que lhes é posta.
 
-        ![Untitled](26%2009%202022%20318373a239ea40f7a74cfd416b8f5148/Untitled%201.png)
+        ![Untitled](https://github.com/guuuu/dim/blob/main/260922/Untitled%201.png)
 
 - *Feedback*
     - Usando outra vez os caracteres como exemplo, quando o utilizador clica num dos caracteres, além de ser reproduzido o respetivo som, existe uma alteração visual que transmite a sensação de clique ao utilizador.
 
-        ![Botão não clicado](26%2009%202022%20318373a239ea40f7a74cfd416b8f5148/Untitled%202.png)
+        ![Botão não clicado](https://github.com/guuuu/dim/blob/main/260922/Untitled%202.png)
 
-        Botão não                                 clicado
+        Botão não clicado
 
-        ![Botão Clicado](26%2009%202022%20318373a239ea40f7a74cfd416b8f5148/Untitled%203.png)
+        ![Botão Clicado](https://github.com/guuuu/dim/blob/main/260922/Untitled%203.png)
 
         Botão Clicado
