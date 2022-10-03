@@ -1,5 +1,36 @@
-###### 26/09/2022
+#### 03/10/2022
 
+A partir dos anos 40 surgiram as primeiras máquinas que podem ser reconhecidas como computadores eletrônicos.
+
+[Alan Turing](https://pt.wikipedia.org/wiki/Alan_Turing) liderou um projeto de criar uma máquina para quebrar códigos de mensagens durante a segunda guerra mundial.
+
+
+💡 Filme referido em aula —> [Hidden Figures](https://en.wikipedia.org/wiki/Hidden_Figures)
+
+O primeiro computador americano tem o nome de [ENIAC](https://pt.wikipedia.org/wiki/ENIAC) e apareceu em 1946.
+
+![ENIAC.gif](https://github.com/guuuu/dim/blob/main/images/031022/ENIAC.gif)
+
+Sempre que era necessário alterar o tipo de operações a serem feitas, o CPU tinha de ser recriado / reorganizado.
+
+Em 1950 aparecem os primeiros computadores comerciais.
+
+As primeiras formas de se inserirem instruções nos computadores era com cartões perfurados e surgiram por volta dos anos 60.
+
+💡 Vídeo referido em aula —> [Sketchpad](https://www.youtube.com/watch?v=6orsmFndx_o)
+
+💡 Vídeo referido em aula —> [The mother of all demos](https://www.youtube.com/watch?v=yJDv-zdhzMY)
+
+O primeiro interface gráfico surgiu em 1973.
+
+O primeiro computador caseiro foi o [Altair 8800](https://pt.wikipedia.org/wiki/Altair_8800).
+
+![altair.jpg](https://github.com/guuuu/dim/blob/main/images/031022/altair.jpg)
+
+💡 Emulador referido em aula —> [Spectrum](http://torinak.com/qaop)
+
+
+#### 26/09/2022
 
 # Conceitos
 
