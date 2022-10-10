@@ -20,9 +20,13 @@ Ted Nelson foi a pessoa que explodiu com a hypermedia (links em texto, imagens, 
 ### Arpanet
 
 **A** dvenced
+
 **R** esearch
+
 **P** rojects
+
 **A** gency
+
 **Net** work
 
 ![arpanet.png](https://github.com/guuuu/dim/blob/main/images/101022/arpanet.png)
