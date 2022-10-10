@@ -1,3 +1,61 @@
+#### 10/10/2022
+
+Quando surgiram as redes sociais, o twitter foi uma das primeiras a ter uma API o que cativava os seus utilizadores a criarem as suas próprias apps para interagir com o twitter.
+
+Em 1981 os computadores vendidos pela IBM eram caros, devido a junto do computador ser vendido um serviço de assistência e de montagem, ou seja o user não precisava de se preocupar com a montagem do computador.
+
+## Skeuomorphism
+
+Skeuomorphism é um princípio de design em que os objetos derivados retêm ornamentos e estruturas que eram necessárias apenas nos objetos originais.
+
+Com a nova onda flat, podem existir algumas dificuldades em por exemplo, num smartphone perceber que um bocado de texto é um botão, enquanto que num modelo de skeuomorphism não haveria nunca essa dúvida.
+
+Ted Nelson foi a pessoa que explodiu com a hypermedia (links em texto, imagens, etc)
+
+<aside>
+💡 Artigo referido em aula —> [Projeto xanadu](https://en.wikipedia.org/wiki/Project_Xanadu)
+
+</aside>
+
+### Arpanet
+
+**A** dvenced
+**R** esearch
+**P** rojects
+**A** gency
+**Net** work
+
+![arpanet.png](https://github.com/guuuu/dim/blob/main/images/101022/arpanet.png)
+
+Para passar da utilidade à usabilidade foi criado em 1983 o DNS por Paul Mockapetris.
+
+### Os três princípios de cognição
+
+1. Dois canais de processamento
+    1. Visual + auditivo
+    2. Verbal
+2. Capacidade limitada
+    1. Processamento simultâneo de pouca informação em cada canal
+3. Processamento ativo
+    1. Aprendizagem ocorre se o material é organizado numa estrutura coerente ou integrado com o conhecimento prévio.
+
+### Os três processos cognitivos
+
+1. Atenção e seleção
+2. Organização
+3. Integração com o conhecimento pré-existente
+    1. Por exemplo, um icon representado com um papel e um lápis, leva a perceber que seja para editar / criar novo texto, este conhecimento vem de aplicações prévias, ou em último caso, vem da intuição do user perceber que se o icon é uma folha de papel e um lápis deve ser para escrever.
+
+![Mayer.jpg](https://github.com/guuuu/dim/blob/main/images/101022/Mayer.jpg)
+
+### As três cargas cognitivas
+
+1. Processamento supérfluo (minimizar)
+2. Processamento essencial
+3. Processamento generativo (organização e integração)
+
+Quantos mais pontos/sockets/ganchos etc… houver no nosso cérebro menor é o processamento generativo.
+
 #### 03/10/2022
 
 A partir dos anos 40 surgiram as primeiras máquinas que podem ser reconhecidas como computadores eletrônicos.
