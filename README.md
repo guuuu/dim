@@ -1,3 +1,130 @@
+#### 17/10/2022
+
+Utilizadores secundários é por exemplo a secretaria do ISMAI quando recebe uma senha que um aluno tirou anteriormente, ou seja, um utilizador que não use diretamente a “app” mas que faça uso dela, sem contacto direto.
+
+Utilizadores terciários são aqueles que têm um pequeno impacto.
+
+Necessidades explicitas é por exemplo “Deslocar a entrada do ISMAI para tirar senha para a secretaria”. Estas necessidades podem aparecer em:
+
+- Entrevistas
+- Caderno de encargos (cliente)
+- Análise de criticas
+
+Necessidades implícitas (deduzidas) é quando um utilizador diz “eu quero isto”, por exemplo o utilizador secundário definir / pedir que é necessário uma app para tirar senhas especificas no ISMAI. Estas necessidades podem aparecer em:
+
+- Observação / *analytics* / *tracking*
+
+Os requisitos do sistema:
+
+- Funcionais (*features*) (detalhar ao máximo)
+    - App local (sem registo / sem *[oAuth](https://oauth.net/2/)*)
+    - App com *sync* (registo de users / precisa de uma BD)
+- Não funcionais (não afetam o sistema do utilizador / o utilizador não faz uso destes requisitos)
+    - Traking
+    - Publicidade
+    - MariaDB / PostgreSQL / Firebird
+    - *Cybersecurity*
+    - GDPR
+
+### Teoria da carga cognitiva
+
+- O conhecimento é obtido por camadas
+    - Por exemplo, quando aprendemos a ler, aprendemos primeiro por reconhecer as letras depois por aprender palavras pequenas, pequenas frases, etc…
+- É difícil estar a ler algo e a ouvir alguém torna-se complicado prestar atenção aos dois uma vez que há um conflito entre as cargas.
+- Quanto menos carga cognitiva gastarmos com coisas supérfluas melhor vai ser a nossa capacidade de processamento.
+
+### Princípios da coerência
+
+- Material em excesso pode prejudicar a aprendizagem
+- Audio, imagens, texto em excesso devem ser omitidos ou opcionais
+
+### Princípios da personalização
+
+- Encontra-se por exemplo nos tutoriais dos jogos
+- Texto e narração em estilo conversacional
+
+### Princípios da segmentação
+
+- Divisão em segmentos mais pequenos
+
+### Princípios a aplicar
+
+- Tirar partido do **multimédia**
+- Preservar a **Contiguidade**
+- Evitar **redundâncias**
+- Manter a **Coerência**
+- **Personalização**
+- **Segmentação** e **treino prévio**
+
+### Necessidades dos utilizadores (clientes)
+
+- Explicitas
+    - O que é que nos disseram necessitam
+- Implícitas
+    - O que é que achamos que precisam (com base em análise)
+
+### Requisitos do sistema
+
+- Funcionais
+    - Que funções satisfazem as necessidades?
+- Não funcionais (nao alteram a funcionalidade mas são necessários)
+    - O que implica a implementação das funções (tecnicamente / legalmente)
+    - Limitações técnicas à implementação
+
+### Compreender o problema
+
+- Quem são os users
+- Onde quando porquê e como é que atualmente a tarefa é feita.
+- Quais os problemas que os users percepcionam
+- Wish list dos users para melhorar a forma de como completam a tarefa
+
+UX é um processo sistemático.
+
+É um erro começar o design sem compreender o user, a tarefa, e como a mesma é executada
+
+### Técnicas de recolha de dados
+
+- Dados qualitativos (narrativas / temas emergentes)
+    - Observação naturalista
+    - Grupos focais
+    - Entrevistas
+- Dados quantitativos (numéricos)
+    - Inquéritos
+    - User *analytics*
+
+### Técnicas de representação
+
+- Cenários
+- Casos de utilização
+- Análise hierárquica
+- Crítica de UI/UX actuais.
+
+### Categorias de utilizadores
+
+- Utilizadores primários (end-useres)
+    - Interagem diretamente com o produto
+- Utilizadores secundários
+    - Obtêm alguns outputs do produto
+- Utilizadores terciários
+    - Não o usam mas são afetados pelo seu design
+        - Por exemplo o gestor de produto de uma empresa que fabrica o seu próprio produto
+
+
+# Desafio
+
+>
+> Escolham um outro produto ou app e escrevam sobre os seus potenciais utilizadores primários, secundários e terciários.
+> 
+
+## uBlock Origin
+
+1. Utilizadores primários
+    1. Todos os users que façam a instalação da extensão no seu navegador
+2. Utilizadores secundários
+    1. Outras extensões que trabalhem junto do uBlock Origin uma vez que o mesmo é ***********[open source](https://github.com/gorhill/uBlock)***********
+3. Utilizadores terciários
+    1. Todos os sites onde o utilizador **********não********** desligue o adBlock são afetados uma vez que todo e qualquer tipo de anúncio é removido
+
 #### 10/10/2022
 
 Quando surgiram as redes sociais, o twitter foi uma das primeiras a ter uma API o que cativava os seus utilizadores a criarem as suas próprias apps para interagir com o twitter.
