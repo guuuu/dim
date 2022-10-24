@@ -1,3 +1,110 @@
+### 24/10/2022
+
+# Recolha de dados
+
+## Considerações éticas
+
+- Preservação do anonimato
+- Respeito pelas normas legais (ex. GDPR) —> Qualquer informação que identifique o utilizador necessita de autorização explícita.
+- No caso de haver filmagens, a entidade que faz o estudo tem de dar a assinar uma declaração que informa que as imagens serão tratadas de forma anônima e será mantido o anonimato no resultado final.
+
+## Observação naturalista
+
+- Observação do utilizador enquanto cumpre a tarefa ***************Fly on the wall***************.
+- Ter um observador “físico” traz vantagens porque consegue trazer dados importantes que por vezes digitalmente (analytics e logs) não é possível
+
+## Questionários
+
+- Self-report (experiência subjetiva do utilizador)
+    - Comportamento Percepções
+    - Atitudes
+    - Sensações
+- Items fechados
+    - Dictomais (sim/nao)
+    - Escalas de likert
+        - Regra geral usa-se com opções impar para que o utilizador possa ter uma opinião neutra no entanto existem discussões sobre utilizar opções par para que o utilizador seja obrigado a ter uma opinião.
+    - Listas ordenadas
+- Items abertos
+    - Opinião escrita
+- Desvantagens
+    - Conhecimento superficial
+    - Enviesamento dos participantes (agradar ao investigador)
+    - Enviesamento da amostragem
+- Plataforma para os próximos passos da investigação
+    - Resultados irão ditar as questões para os grupos focais ou entrevistas.
+
+## Grupos focais
+
+Conversa direcionada com grupos pequenos (5 a 10 pessoas) com no mínimo 2 investigadores o moderador e anotador e no máximo 60 minutos de duração e 3 tópicos de discussão. Esta conversa dá se sempre em um ambiente controlado.
+
+- Quando há uma afirmação o anotador questiona toda a gente se mais alguém concorda, de forma a que depois se alguém concordar com o exato oposto, possa ser questionado e esclarecido o porquê.
+
+Análise qualitativa de transcrições e anotações junto com a recolha de dados quantitativos sem participantes.
+
+Os grupos focais têm desvantagens porque é necessário uma equipa de investigação e um moderador experiente, o groupthink é quando alguns participantes começam a reproduzir/copiar as opiniões dos outros.
+
+## Entrevista
+
+- Entrevista estruturada
+    - As questões seguem um guião
+- Entrevista aberta
+    - Conversa livre sem perder a essência do tópico
+- Entrevista semi-estruturada
+    - Segue um guião mas permite que o entrevistado divague um pouco
+    - Possibilidade de colocar questões que não estejam no guião
+- Desvantagens
+    - Necessidade de um entrevistador experiente
+    - Processo muito exaustivo porque necessita de muito tempo e dinheiro.
+
+<aside>
+💡 Video referido em aula —> [https://www.coursera.org/lecture/user-experience-design/user-results-aTZoM](https://www.coursera.org/lecture/user-experience-design/user-results-aTZoM)
+
+</aside>
+
+<aside>
+💡 Video referido em aula —> [https://www.coursera.org/lecture/user-experience-design/presenting-task-findings-WB2gk](https://www.coursera.org/lecture/user-experience-design/presenting-task-findings-WB2gk)
+
+</aside>
+
+## Novo design
+
+### Individual
+
+A atualização do design de uma aplicação pode melhorar a experiência do utilizador ficando adequado às características dele.
+
+- Idade
+- Educação
+- Atitude / conforto perante a tecnologia
+- Características físicas
+
+### Sociedade
+
+Atenção aos efeitos de um design novo nas dinâmicas sociais, necessidades de ompreender valores culturais relacionados com a tarefa.
+
+# Desafio
+
+> Escolham um outro produto ou app e escrevam sobre o que é que mudou após um upgrade.
+> 
+
+## Duolingo
+
+As primeiras versões do duolingo tinham um design tipico da altura (2012), tendo sofrido um grande redesign com uma data da qual eu não tenho a certeza.
+
+No entanto a versão atual do duolingo o *homescreen* dá asas ao utilizador para escolher aquilo que pretende fazer relativamente ao tópico que o user quer aprender, mas isso vai acabar, uma vez que está a ser planeado um redesign novo que vai tornar mais fácil ao user decorar e criar bases para a lingua que esteja a aprender.
+
+Todas as imagens e todos os tópicos abordados neste desafio foram obtidos a partir do blog oficial do duolingo, e deste [post](https://blog.duolingo.com/new-duolingo-home-screen-design/) em especifico.
+
+![                  ***********Home screen*********** antigo —> ***********Home screen*********** novo](https://github.com/guuuu/dim/blob/main/images/241022/oldHome_vs_newHome.png)
+
+                  ***********Home screen*********** antigo —> ***********Home screen*********** novo
+
+![oldCrowns_vs_newCrowns.png](https://github.com/guuuu/dim/blob/main/images/241022/oldCrowns_vs_newCrowns.png)
+
+Estas novas alterações ao design do duolingo têm base em estudos científicos sobre a aprendizagem (tópico falado em sala de aula no ponto de recolha de dados), e vai seguir padrões repetitivos espaçados para que o utilizador não se aperceba de que está a repetir o mesmo tópico de aprendizagem e tornar assim mais suave a adaptação a uma nova língua.
+
+A meu ver este redesign será para o melhor, mas como de momento ainda não foi feito referido redesign (no meu caso ainda não houve uma atualização, pode já estar a ser distribuída para outros dispositivos móveis) só tendo a experiência propriamente dita é que poderia ter um voto sólido sobre este tópico, uma vez que, com qualquer aplicação, quando se utiliza algo que é igual durante muito tempo, por vezes pode ser díficil adaptarmo-nos às novas funcionalidades e aspetos.
+
+
 #### 17/10/2022
 
 Utilizadores secundários é por exemplo a secretaria do ISMAI quando recebe uma senha que um aluno tirou anteriormente, ou seja, um utilizador que não use diretamente a “app” mas que faça uso dela, sem contacto direto.
