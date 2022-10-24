@@ -56,15 +56,13 @@ Os grupos focais têm desvantagens porque é necessário uma equipa de investiga
     - Necessidade de um entrevistador experiente
     - Processo muito exaustivo porque necessita de muito tempo e dinheiro.
 
-<aside>
+
 💡 Video referido em aula —> [https://www.coursera.org/lecture/user-experience-design/user-results-aTZoM](https://www.coursera.org/lecture/user-experience-design/user-results-aTZoM)
 
-</aside>
 
-<aside>
+
 💡 Video referido em aula —> [https://www.coursera.org/lecture/user-experience-design/presenting-task-findings-WB2gk](https://www.coursera.org/lecture/user-experience-design/presenting-task-findings-WB2gk)
 
-</aside>
 
 ## Novo design
 
@@ -94,9 +92,7 @@ No entanto a versão atual do duolingo o *homescreen* dá asas ao utilizador par
 
 Todas as imagens e todos os tópicos abordados neste desafio foram obtidos a partir do blog oficial do duolingo, e deste [post](https://blog.duolingo.com/new-duolingo-home-screen-design/) em especifico.
 
-![                  ***********Home screen*********** antigo —> ***********Home screen*********** novo](https://github.com/guuuu/dim/blob/main/images/241022/oldHome_vs_newHome.png)
-
-                  ***********Home screen*********** antigo —> ***********Home screen*********** novo
+![Home scree antigo —> Home screen novo](https://github.com/guuuu/dim/blob/main/images/241022/oldHome_vs_newHome.png)
 
 ![oldCrowns_vs_newCrowns.png](https://github.com/guuuu/dim/blob/main/images/241022/oldCrowns_vs_newCrowns.png)
 
