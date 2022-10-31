@@ -1,3 +1,35 @@
+### 31/10/2022
+
+# O que é uma obra
+
+- Por exemplo um perfil digital
+    - Tem 1 autor (ou mais)
+        - Frequenta um contexto
+        - Produziu obras
+        - Possui uma ficha biográfica, link, etc
+    - Foi produzida num contexto (grupo)
+        - Existe numa hierarquia (Universidade / escola / curso )
+        - Contém autores
+        - Contém obras
+        - Tem uma ficha própria com links
+    - Tem metadados
+    - Tem diferentes media (texto / imagem / vídeo / áudio / etc…)
+    
+
+# Design de interface úteis
+
+- Quais são as necessidades explícitas dos utilizadores
+    - Declaradas em entrevistas / questionários
+
+
+💡 Site referido em aula —> [BeHance](https://www.behance.net/)
+
+
+Parte da aula foi em volta do perfil digital do docente e sobre os seus projetos —> [http://www.eduardomorais.com/](http://www.eduardomorais.com/)
+
+Foram ainda discutidas dúvidas sobre a primeira entrega ["Enunciado e submissão da proposta ⬆️"](https://moodle.maieutica.pt/mod/assign/view.php?id=55277)
+
+
 ### 24/10/2022
 
 # Recolha de dados
