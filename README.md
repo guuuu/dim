@@ -1,3 +1,85 @@
+### 07/11/2022
+
+# Discussão sobre as [propostas de enunciado](https://moodle.maieutica.pt/mod/assign/view.php?id=55277)
+
+No meu caso, foi feita uma chamada de atenção, que o requisito não funcional de sistema
+>"Os utilizadores necessitam de ter as propinas em dia (se não o login fica indisponível)"
+
+deveria na verdade ser um requisito **funcional** uma vez que gera um erro/mensagem de aviso para que o utilizado saiba que perdeu o acesso à plataforma.
+
+## Proposta submetida
+
+
+#### Titulo
+
+UDMchat —>Universidade da maia chat
+
+#### Resumo
+
+Chat app para alunos da universidade da maia, com um chat que engloba todos os
+alunos, chats criados automaticamente por turmas, e possibilidade de mensagens
+privadas. Os alunos podem tirar proveito para pedir ajuda / pedir material e os
+professores / instituição usam a app para publicar alertas a situações adversas.
+
+#### Utilizadores destino
+
+Esta app será para utilizadores entre os 18 e os 24 anos, com no mínimo o 12º ano ou
+equivalente e que não exige grandes conhecimentos tecnológicos por parte dos
+utilizadores de qualquer faixa etária.
+
+Os utilizadores primários são todos os alunos da universidade da maia que transfiram
+a aplicação e façam uso dela.
+
+Os utilizadores secundários são os docentes, que mesmo não estando envolvidos
+diretamente na app, beneficiam de uma maior agilidade entre alunos e de poderem
+pedir à instituição que “lance” um aviso no grupo da turma X para os informar de
+alguma situação inesperada.
+
+Os utilizadores terciários será a instituição propriamente dita visto ter a
+hipótese/funcionalidade de lançar avisos em todos os chats de grupo (falta de um
+docente, falta de condições na universidade (inundações, etc..))
+
+#### Como é executada atualmente a tarefa
+
+Atualmente a solução mais comum é os alunos criarem grupos de WhatsApp /
+Messenger para as turmas, a única área existente onde todos os alunos podem falar é
+a área de debate geral na área privada. Um dos problemas com estas aplicações é
+que geralmente faltam colegas no grupo da turma / colegas que gostariam de estar
+presentes, mas não sabem da existência do grupo.
+
+#### Necessidades explicitas
+
+- Os utilizadores precisam de estar inscritos na Universidade da maia
+- Enviar mensagens
+- Fazer videochamadas
+- A instituição publicar avisos em todos os grupos existentes para alertar de
+situações adversas
+
+#### Necessidades implícitas
+
+- Mensagem visualizada
+- Notificação de mensagem recebida
+- Poder enviar ficheiros
+
+#### Requisitos funcionais do sistema
+
+- App com login (uso do login *******default******* da universidade da maia)
+- Notificações em *background* (para que o aluno receba notificações mesmo sem a app aberta)
+- Animação para mostrar que um aluno está a escrever
+
+#### Requisitos não funcionais do sistema
+
+- A aplicação deverá cumprir rigorosamente todas as regras do RGPD
+- Base de dados para registar as mensagens
+- Acesso à API/dados internos da universidade da maia (para a criação dos grupos e validações)
+- Os utilizadores necessitam de ter as propinas em dia (se não o login fica indisponível)
+- As mensagens serão encriptadas
+- Tecnologias como (multiplataforma)
+    - React native
+    - Tailwindcss
+    - Typescript
+    - PostgresSQL
+
 ### 31/10/2022
 
 # O que é uma obra
