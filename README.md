@@ -1,3 +1,48 @@
+### 14/11/2022
+
+# Padrões de design
+
+### Padrões de navegação
+
+- Breadcrumbs
+    - Tem um aspeto mais gráfico ou como por exemplo no explorador do windows
+- Paginação
+- Widgets
+    - Dropdown
+    - Combobox
+    - Menus
+        - Podem ser usados como hierarquias
+    - Escolhas
+        - Radio buttons
+        - Single Selection listbox
+        - Toggle buttons
+        - Evitar usar checkboxes para uma opção que pode signigicar duas coisas
+            - Ex.:
+                - [ ]  Insert vs overstrike
+    - Organização
+        - Tabs
+        - Table of contents
+        - Acordeão
+        - Scroll
+            - A forma de se perceber que há mais conteudo para se poder dar scroll em mobile, é o facto de aparecer conteudo cortado.
+
+# Método atómico
+
+Um exemplo de uma app que segue um modelo atómico é por exemplo o instagram.
+
+- Átomos (foto de perfil)
+    - Widgets / elementos (HTML)
+- Moléculas (feed / area de comentários)
+    - Componentes
+        - Pesquisa = campo + botão + placeholder
+- Organismos
+    - Componentes complexos
+        - Grelha de cartões / cabeçalho
+- Templates
+    - Modelos reutilizáveis de páginas
+- Páginas
+    - Instâncias especificas de templates
+
 ### 07/11/2022
 
 # Discussão sobre as [propostas de enunciado](https://moodle.maieutica.pt/mod/assign/view.php?id=55277)
