@@ -1,3 +1,46 @@
+### 21/11/2022
+
+
+# Simplificação de interfaces
+
+- Nas interfaces de audio ainda está muito presente o skeuomorphism
+- O audition é uma aplicação focada na parte de trabalhar o audio e o design está mais simplificado com multiplas pistas de audio
+
+### Técnicas de simplificação
+
+- Redução
+    - Retirar / esconder elementos não essenciais.
+- Antigamente não se utilizavam os icons da navbar inferior nos telemóveis android pois já existiam os 3 botões default do android, hoje em dia, esses botões foram trocados por gestos, abrindo assim a possibilidade de utilizar uma navbar inferior nos dispositivos móveis.
+
+# Tipologias de protótipos
+
+- Abrangência
+    - Protótipo vertical
+        - Modelo detalhado de parte das funcionalidades
+        - Permite estudar o fluxo de poucas tarefas centrais
+- Protótipos de baixa fidelidade
+    - Desenvolvidos em primeiro lugar de modo a estudarmos o design do interface e verificar com colegas e com stakeholders.
+    - Pode ser feito em:
+        - papel
+        - storyboards
+        - cartões
+        - Wireframes
+- Protótipos de alta fidelidade
+    - Podem ser utilizados alguns softwares como
+        - Powerpoint
+        - Illustrator
+        - Dreamweaver
+- Existem duas técnicas de prototipagem mais “exóticas”
+    - Wizard of oz & Turco mecânico
+    - Vantagem
+        - Poupança ao evitar o desenvolvimento de um sistema funcional
+    - Desvantagens
+        - Tempo de ensaio do operador escondido
+        - Ilude os utilizadores que testam o protótipo com impacto na validade do feedback
+
+
+
+
 ### 14/11/2022
 
 # Padrões de design
