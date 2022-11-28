@@ -1,3 +1,99 @@
+### 28/11/2022
+
+
+# Wireframe (UDMchat)
+
+A minha primeira opção para o ecrã relativo as propriedades dos grupos continha 2 opções distintas para controlar as notificações, uma delas com um *toggle* e outra com um dropdown, no entanto após discutir o assunto com o docente, alterei o design para conter uma só opção e tornar mais intuitiva o uso da app.
+
+## Antes
+
+![Untitled](https://github.com/guuuu/dim/blob/main/images/281122/antes.png)
+
+## Depois
+
+![Untitled](https://github.com/guuuu/dim/blob/main/images/281122/depois.png)
+
+Nos ecrãs das propriedades dos grupos, o dropdown para silenciar notificações, irá conter as seguintes opções:
+
+- Não desligar
+- durante 1h
+- durante 2h
+- durante 4h
+- durante 6h
+- durante 8h
+- para sempre
+
+---
+
+# Avaliação
+
+O ciclo de avaliação dá se da seguinte forma
+
+1. Identificação de requisitos
+2. Design de alternativas
+3. Prototipagem
+4. Avaliação
+
+E é baseada na evidencia e baseia-se na recolha de dados quantitativos e qualitativos, os dados qualitativos são:
+
+- Observação naturalista
+- Grupos focais
+- Entrevistas
+
+Os dados quantitativos são:
+
+- Inquéritos
+- User analytics
+
+## Avaliação formativa
+
+- De protótipos de baixa fidelidade
+    - Recolha de dados pelo designer
+- Trabalho de gabinete ou laboratório
+
+## Avaliação analitica
+
+- Tipicamente protótipos de baixa fidelidade
+    - Recurso a especialistas
+    - Avaliação através de heurísticas
+
+## Avaliação sumativa
+
+- Dos protótipos de alta fidelidade
+    - Testagem com os utilizadores
+    - Trabalho de campo e com recurso aos dispositivos dos utilizadores
+
+## Determinar que o interface é
+
+- Útil
+    - Fácil de determinar
+- Usável (eficaz, eficiente, satisfatório)
+    - Medições quantitativas
+        - Logs
+        - Questionários
+    - Medições qualitativas
+        - Entrevistas
+        - Focus groups
+
+## Medidas de eficiência
+
+- Facilidade de aprendizagem e uso
+    - Comparação de tempo/clicks entre dois grupos de utilizadores
+- Facilidade do utilizador se relembrar
+    - Comparação de tempo/clicks através de testes separados no tempo com os mesmos utilizadores
+        - Por norma, é necessário um mecanismo de matching entre testes que devem ser anónimos
+
+## Medidas de satisfação
+
+- Esforço mental
+    - O interface  e a execução da tarefa foram intuitivos?
+- Sentimentos
+    - O interface é cativante?
+    - Existiu alguma frustração / anseidade
+    - Existem sentimentos positivos ou negativos após concluir a tarefa.
+
+
+
 ### 21/11/2022
 
 
