@@ -1,3 +1,27 @@
+### 12/12/2022
+
+# Hi-Fi
+
+- Ideia de design (sujeito a alterações)
+    - Design minimalista e flat (mas que não dê a ideia de ser ****lazy****)
+    - Palete de com no máximo 5 cores.
+    - Seguir os padrões das chat’s apps
+- Dispositivo / OS escolhido: Android
+    - Dimensões: 360x800
+    - Bloqueado ao modo portrait
+- Ferramenta escolhida: [Figma](https://www.figma.com/)
+    - Plugins / projetos auxiliares
+        - [Nucleus UI](https://www.nucleus-ui.com/) - Projeto com diversas opções *default* de elementos mobile (botões, searchbars, navbars, etc)
+- Texto:
+    - Fonte: [Sarabun](https://fonts.google.com/specimen/Sarabun?query=sarabun)
+    - Tamanho do texto
+        - “normal”: 12
+        - titulos / botões / etc : 16
+- Palete de cores atual
+
+    ![palete.jpg](https://github.com/guuuu/dim/blob/main/images/121222/palete.jpg)
+
+
 ### 28/11/2022
 
 
